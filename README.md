@@ -3,13 +3,19 @@
 ### Hi there, I'm Ziyuan Han! 👋
 
 
-### Connect me if you have a engineering job
+### [Connect me][linkedin] if you have a engineering job
+
+### Background
 - 💻 I'm a full stack software engineer with data science background!
 - :rocket: I’m looking to collaborate on new coding projects
+
+### Portfolio
 - ✍ You can find my portfolio site [here][portfolio]
 - 🥘 I built a restaurant recommendation web app [here][singed]
 - 🏠 I built a AirBnB clone web app [here][airbbb]
 - 💡 I am proficient in React-Redux and Ruby on Rails
+
+### Contact
 - 📫 You can reach out to me at zhan12@dons.usfca.edu
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
