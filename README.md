@@ -14,15 +14,13 @@
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronHan333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronHan333&layout=compact)]
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronHan333&show_icons=true)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ByronHan333)
 
 
-[linkedin]: https://www.linkedin.com/in/taylor-musolf/
-[portfolio]: https://ByronHan333.github.io
-[angellist]: https://angel.co/u/taylor-musolf
-[kickbacker]: https://kickbacker.herokuapp.com/
-[dyno]: https://dyno.ByronHan333.com/
+[linkedin]: https://www.linkedin.com/in/ziyuan-byron-han/
+[portfolio]: https://www.ziyuanhan.com/
+[angellist]: https://angel.co/u/byron-han-2
