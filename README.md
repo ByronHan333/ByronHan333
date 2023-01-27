@@ -8,26 +8,26 @@
 ### Background
 - 💻 I'm a full stack software engineer with data science background!
 - :rocket: I’m looking to collaborate on new coding projects
+- 💡 I have 4 years of work experience in Python, PostgreSQL, panas, numpy, and its ml/stats libraries.
+- 💡 I am proficient in React-Redux and Ruby on Rails
 
 ### Portfolio
 - ✍ You can find my portfolio site [here][portfolio]
 - 🥘 I built a restaurant recommendation web app [here][singed]
 - 🏠 I built a AirBnB clone web app [here][airbbb]
-- 💡 I am proficient in React-Redux and Ruby on Rails
 
 ### Contact
 - 📫 You can reach out to me at zhan12@dons.usfca.edu
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
-### Stats
-![Byron's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ByronHan333&show_icons=true&theme=default)
+<!-- ### Stats -->
+<!-- ![Byron's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ByronHan333&show_icons=true&theme=default) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronHan333&layout=compact)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronHan333&layout=compact)] -->
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronHan333&show_icons=true)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ByronHan333)
-![Byron's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ByronHan333&show_icons=true&theme=default)
 
 
 [linkedin]: https://www.linkedin.com/in/ziyuan-byron-han/
