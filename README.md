@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31353811/214981727-37adc71e-4651-4826-a4a0-34044fd5deef.gif" width="450" height="400" />
+<img align="right" alt="GIF" src="./gifs/g.gif" width="450" height="400" />
 
 ### Hi there, I'm Ziyuan Han! 👋
 
