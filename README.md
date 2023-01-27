@@ -3,11 +3,11 @@
 ### Hi there, I'm Ziyuan Han! 👋
 
 
-### [Connect me][linkedin] if you have a engineering job
+### [Open to grab a coffe][linkedin]
 
 ### Background
 - 💻 I'm a full stack software engineer with data science background!
-- :rocket: I’m looking to collaborate on new coding projects
+- :rocket: I’m looking to collaborate on new coding projects if you just want to grad a boba.
 - 🌟 I have 4 years of work experience in Python, PostgreSQL, panas, numpy, and its ml/stats libraries.
 - 💡 I am proficient in React-Redux and Ruby on Rails
 
