@@ -25,6 +25,7 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronHan333&show_icons=true)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ByronHan333)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronHan333&show_icons=true&theme=radical)
 
 
 [linkedin]: https://www.linkedin.com/in/ziyuan-byron-han/
