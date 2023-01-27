@@ -19,6 +19,8 @@
 - 📫 You can reach out to me at zhan12@dons.usfca.edu
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
+### Stats
+![Byron's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ByronHan333&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronHan333&layout=compact)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronHan333&layout=compact)] -->
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
