@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="./gifs/g.gif" width="280" height="400" />
+<img align="right" alt="GIF" src="./gifs/g.gif" width="320" height="450" />
 
 ### Hi there, I'm Ziyuan Han! 👋
 
