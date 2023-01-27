@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31353811/214981727-37adc71e-4651-4826-a4a0-34044fd5deef.gif" width="450" height="400" />
 
 ### Hi there, I'm Ziyuan Han! 👋
