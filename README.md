@@ -15,6 +15,7 @@
 - ✍ You can find my portfolio site [here][portfolio]
 - 🥘 I built a restaurant recommendation web app [here][singed]
 - 🏠 I built a AirBnB clone web app [here][airbbb]
+- 🎮 I built a Trivia game web app [here][trivia]
 
 ### Contact
 - 📫 You can reach out to me at zhan12@dons.usfca.edu
@@ -35,3 +36,4 @@
 [angellist]: https://angel.co/u/byron-han-2
 [singed]: https://singed-yhra.onrender.com/
 [airbbb]: https://airbbb-1zn2.onrender.com/
+[trivia]: https://trivia-vtue.onrender.com/
