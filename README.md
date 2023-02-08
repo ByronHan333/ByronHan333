@@ -8,7 +8,7 @@
 ### Background
 - 💻 I'm a full stack software engineer with data science background!
 - :rocket: I’m looking to collaborate on new coding projects if you just want to grad a boba.
-- 🌟 I have 4 years of work experience in Python, PostgreSQL, panas, numpy, and its ml/stats libraries.
+- 🌟 I have 4 years of work experience in Data Engineer and Data Scientist.
 - 💡 I am proficient in React-Redux and Ruby on Rails
 
 ### Portfolio
