@@ -3,7 +3,7 @@
 ### Hi there, I'm Ziyuan Han! 👋
 
 
-### [Open to grab a drink][linkedin]
+### [Contact me via LinkIn][linkedin]
 
 ### Background
 - 💻 I'm a full stack software engineer with data science background!
